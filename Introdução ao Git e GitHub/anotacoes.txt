@@ -2,3 +2,5 @@ Link para download Git:
 https://git-scm.com
 
 O git bash é um terminal estendido para otimizar o uso do git.
+
+--
